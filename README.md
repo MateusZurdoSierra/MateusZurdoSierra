@@ -3,7 +3,7 @@
 - 🌱  Estou estudando NodeJs e me aprofundando em React Native.
 - 📫  Você pode entrar em contato comigo por: mateuszurdo71@gmail.com
 - 😄  "O conhecimento é a única coisa que ninguém pode tirar de você".
-- ⚡  Sobre mim: Sou formado em Análise e Desenvolvimento de Sistemas, tenho 23 anos e moro em uma cidade bem pequena de 2 mil habitantes no interior de São Paulo chamada Timburi. Fora a área tecnologica eu amo futebol, academia, esportes em geral e amo a natureza, um final de semana ao ar livre é tudo de bom.
+- ⚡  Sobre mim: Sou formado em Análise e Desenvolvimento de Sistemas, tenho 24 anos e moro em uma cidade bem pequena de 2 mil habitantes no interior de São Paulo chamada Timburi. Fora a área tecnologica eu amo futebol, academia, esportes em geral e amo a natureza, um final de semana ao ar livre é tudo de bom.
 
 ##
 
