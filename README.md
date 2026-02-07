@@ -1,45 +1,68 @@
-## Olá, eu sou o Mateus Zurdo! 👋😃  
+# 👋 Olá, eu sou o Mateus Zurdo
 
-💻 **Desenvolvedor Mobile Sênior** | React Native, JavaScript & TypeScript  
-🏦 Atualmente na **PJBank/Superlógica**, desenvolvendo soluções escaláveis para o setor financeiro  
-🚀 Especialista em **React Native**, criando aplicações performáticas e robustas  
+### 🚀 Mobile Engineer | React Native Specialist | Fintech & High-Performance Apps
 
-### Sobre mim  
-📍 Moro em Timburi-SP, uma cidade pequena de 2 mil habitantes  
-⚽ Apaixonado por tecnologia, futebol, academia e esportes em geral  
-🌿 Amo a natureza e um final de semana ao ar livre  
+Sou desenvolvedor mobile com foco em **React Native**, apaixonado por criar aplicações escaláveis, performáticas e seguras.  
+Atualmente trabalho desenvolvendo soluções financeiras utilizadas por milhares de usuários.
+
+Tenho 26 anos, moro no interior de São Paulo e acredito que tecnologia de alto nível pode ser construída de qualquer lugar do mundo 🌎
 
 ---
 
-### 🚀 Tecnologias & Ferramentas  
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>  
+## 🧠 Sobre mim
+
+- 💻 **Especialista em React Native**
+- 🏦 Experiência com **aplicações financeiras (fintech)**
+- 🔐 Forte foco em **performance, segurança e arquitetura**
+- 📱 Apps com onboarding, KYC, Pix, extratos, cartões e autenticação
+- 📍 Timburi - SP, Brasil
 
 ---
 
-### 📊 GitHub Stats  
+## ⚡ Stack Principal
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+
+### 🧩 Linguagens
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
+### 🛠 Backend & Infra
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🧱 Arquitetura & Qualidade
+
+- Clean Architecture
+- SOLID
+- Componentização avançada
+- Testes (unitários e integração)
+- CI/CD para mobile
+- Observabilidade & monitoramento
+- Feature Flags
+- Versionamento semântico
+
+---
+
+## 🌎 Onde me encontrar
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusZurdoSierra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusZurdoSierra&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
+  <a href="https://www.linkedin.com/in/mateus-z-72b925148/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mateuszurdo71@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mateus_zurdo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-### 📲 Conecte-se comigo  
-<div>  
-  <a href="https://www.instagram.com/mateus_zurdo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  
-  <a href="mailto:mateuszurdo71@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
-  <a href="https://www.linkedin.com/in/mateus-z-72b925148/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
-</div>
+⭐ *Sempre buscando evoluir como engenheiro e como pessoa.*
