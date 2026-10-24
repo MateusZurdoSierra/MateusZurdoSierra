@@ -1,68 +1,52 @@
-# 👋 Olá, eu sou o Mateus Zurdo
+## Delivery pipeline
 
-### 🚀 Mobile Engineer | React Native Specialist | Fintech & High-Performance Apps
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mateuszurdosierra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69986329%3Fu%3D31cbf18c830fad7840daaece14a1db5c2fe8ad84%26v%3D4" alt="mateuszurdosierra hero visual" />
+</p>
 
-Sou desenvolvedor mobile com foco em **React Native**, apaixonado por criar aplicações escaláveis, performáticas e seguras.  
-Atualmente trabalho desenvolvendo soluções financeiras utilizadas por milhares de usuários.
+**Mateus Zurdo** · Frontend or full-stack engineer
 
-Tenho 26 anos, moro no interior de São Paulo e acredito que tecnologia de alto nível pode ser construída de qualquer lugar do mundo 🌎
+## Operating principles
 
----
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Timburi-SP
+PUBLIC_REPOS = 5
+COMMUNITY   = 10 followers</code></pre>
 
-## 🧠 Sobre mim
+Mobile Developer at Superlogica/PJBank 👾🤖
 
-- 💻 **Especialista em React Native**
-- 🏦 Experiência com **aplicações financeiras (fintech)**
-- 🔐 Forte foco em **performance, segurança e arquitetura**
-- 📱 Apps com onboarding, KYC, Pix, extratos, cartões e autenticação
-- 📍 Timburi - SP, Brasil
+## Uptime in motion
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mateuszurdosierra&theme=github-dark" alt="mateuszurdosierra contribution activity" />
+</p>
 
-## ⚡ Stack Principal
+## Service signals
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=mateuszurdosierra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69986329%3Fu%3D31cbf18c830fad7840daaece14a1db5c2fe8ad84%26v%3D4" alt="mateuszurdosierra stats visual" />
+</p>
 
-### 🧩 Linguagens
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+<p><code>1,531 contributions</code> · <code>5 day streak</code></p>
 
-### 🛠 Backend & Infra
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Infrastructure shipped
 
----
+- **[uri-app](https://github.com/MateusZurdoSierra/uri-app)** — Projeto URI APP · ⭐ 0
 
-## 🧱 Arquitetura & Qualidade
+## Platform toolkit
 
-- Clean Architecture
-- SOLID
-- Componentização avançada
-- Testes (unitários e integração)
-- CI/CD para mobile
-- Observabilidade & monitoramento
-- Feature Flags
-- Versionamento semântico
+<p><code>mateuszurdosierra@github:~$ toolbox --list</code></p>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=mateuszurdosierra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69986329%3Fu%3D31cbf18c830fad7840daaece14a1db5c2fe8ad84%26v%3D4" alt="mateuszurdosierra stack visual" />
+</p>
 
-## 🌎 Onde me encontrar
+## Keep it moving
 
-<div>
-  <a href="https://www.linkedin.com/in/mateus-z-72b925148/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mateuszurdo71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mateus_zurdo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mateuszurdosierra&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F69986329%3Fu%3D31cbf18c830fad7840daaece14a1db5c2fe8ad84%26v%3D4" alt="mateuszurdosierra social visual" />
+</p>
 
----
+<a href="https://github.com/mateuszurdosierra">GitHub</a> · <a href="https://mateuszurdo.com.br">Website</a>
 
-⭐ *Sempre buscando evoluir como engenheiro e como pessoa.*
+<p align="center"><sub>Mateus Zurdo · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
